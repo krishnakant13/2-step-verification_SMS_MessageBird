@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 require('dotenv').config();
 
 // Load and initialize MesageBird SDK
-var messagebird = require('messagebird')('1AxeQtHdwFvKxMhklLClpOVWh');
+var messagebird = require('messagebird')('qufhz6D7cYpgkh4Ah04Sp9Zkp');
 
 
 var app = express();
